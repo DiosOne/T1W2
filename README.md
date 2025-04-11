@@ -11,6 +11,8 @@ At the very least it's something I can reference at this early stage.
 <br>
 <br>
 - https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4.js
-    - Helpful hex + alpha codes
+    - Helpful hex + alpha codes<br>
+    <br>
+    
 - Another awesome colour picker - Has HSL, HWB, RGB and hex
     - https://hslpicker.com/#8712b6
